@@ -9,5 +9,5 @@
 //=========================================================================================
 
 
-#base "../resource/ui/hudmediccharge_meter_off.res"			// UBERCHARGE METER DISABLED
-//#base "../resource/ui/hudmediccharge_meter_on.res"		// UBERCHARGE METER ENABLED
+//#base "../resource/ui/hudmediccharge_meter_off.res"			// UBERCHARGE METER DISABLED
+#base "../resource/ui/hudmediccharge_meter_on.res"		// UBERCHARGE METER ENABLED

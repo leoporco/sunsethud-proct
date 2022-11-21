@@ -2,8 +2,8 @@
 
 "Resource/UI/Disguise_Menu/Scout_Blue.res"
 {
-	"TitleBG"
+	"ItemBackground"
 	{
-		"border"									"BlueTransparent70"
+		"bgcolor_override"							"BlueLight"
 	}
 }

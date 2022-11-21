@@ -2,23 +2,21 @@
 
 "Resource/UI/Disguise_Menu/Pyro_Red.res"
 {
-	"TitleBG"
+	"ItemBackground"
 	{
-		"visible"									"0"
 	}
+
 	"ItemNameLabel"
 	{
 		"labelText"									"#TF_Class_Name_Pyro"
 	}
-	"ClassIconCustom"
-	{
-		"labelText"									"c"
-	}
-	"NumberLabel"
+
+	"NewNumberLabel"
 	{
 		"labelText"									"3"
 	}
-	"NewNumberLabel"
+
+	"NumberLabel"
 	{
 		"labelText"									"3"
 	}

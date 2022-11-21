@@ -2,24 +2,22 @@
 
 "Resource/UI/Disguise_Menu/Medic_Red.res"
 {
-	"TitleBG"
+	"ItemBackground"
 	{
-		"visible"									"0"
 	}
+
 	"ItemNameLabel"
 	{
 		"labelText"									"#TF_Class_Name_Medic"
 	}
-	"ClassIconCustom"
-	{
-		"labelText"									"g"
-	}
-	"NumberLabel"
-	{
-		"labelText"									"7"
-	}
+
 	"NewNumberLabel"
 	{
 		"labelText"									"1"
+	}
+
+	"NumberLabel"
+	{
+		"labelText"									"7"
 	}
 }

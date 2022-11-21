@@ -15,8 +15,8 @@
 //#base "../resource/ui/scoreboard_9v9_stats_off.res"		// 9vs9 SCOREBOARD WITH NO STATS (ONLY KD)
 //#base "../resource/ui/scoreboard_9v9_stats_on.res"		// 9vs9 SCOREBOARD WITH FULL STATS
 
-#base "../resource/ui/scoreboard_12v12_stats_off.res"		// 12vs12 SCOREBOARD WITH NO STATS (ONLY KD)
+//#base "../resource/ui/scoreboard_12v12_stats_off.res"		// 12vs12 SCOREBOARD WITH NO STATS (ONLY KD)
 //#base "../resource/ui/scoreboard_12v12_stats_on.res"		// 12vs12 SCOREBOARD WITH FULL STATS
 
 //#base "../resource/ui/scoreboard_16v16_stats_off.res"		// 16vs16 SCOREBOARD WITH NO STATS (ONLY KD)
-//#base "../resource/ui/scoreboard_16v16_stats_on.res"		// 16vs16 SCOREBOARD WITH FULL STATS
+#base "../resource/ui/scoreboard_16v16_stats_on.res"		// 16vs16 SCOREBOARD WITH FULL STATS

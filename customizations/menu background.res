@@ -5,5 +5,5 @@
 // IMPORTANT: MAKE SURE ONLY ONE LINE STAYS UNCOMMENTED!!
 //=========================================================================================
 
-#base "../resource/ui/pausebackground_on.res"			// SUNSET BACKGROUND ON MAINMENU AND PAUSE MENU
-//#base "../resource/ui/pausebackground_off.res"		// SUNSET BACKGROUND ONLY ON MAINMENU
+//#base "../resource/ui/pausebackground_on.res"			// SUNSET BACKGROUND ON MAINMENU AND PAUSE MENU
+#base "../resource/ui/pausebackground_off.res"		// SUNSET BACKGROUND ONLY ON MAINMENU

@@ -25,16 +25,17 @@
 
 		"Health"											"235 235 235 255"
 
-		"Health Buff"										"235 235 235 255"
-		"Health Buff Target"								"235 235 235 255"
+		"Health Buff"										"32 255 107 255"
+		"Health Buff Target"								"0 255 62 255"
+		"Health Buff Spec"									"150 200 220 255"
 
 		"Health Hurt"										"235 235 235 255"
 		"Health Hurt Target"								"235 235 235 255"
+		"Health Hurt Spec"									"245 70 70 255"
 
-		"Ammo In Clip"										"235 235 235 255"
+		"Ammo In Clip"										"248 208 10 255"
 		"Ammo In Reserve"									"235 235 235 255"
 		"Ammo No Clip"										"235 235 235 255"
-
 		"Ammo In Clip Low"									"245 70 70 255"
 		"Ammo In Reserve Low"								"245 70 70 255"
 		"Ammo No Clip Low"									"245 70 70 255"

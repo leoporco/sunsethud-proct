@@ -9,5 +9,5 @@
 //=========================================================================================
 
 
-#base "../resource/ui/hudplayerhealth_normal.res"		// HEALTH CROSS DISABLED
-//#base "../resource/ui/hudplayerhealth_cross.res"		// HEALTH CROSS ENABLED
+//#base "../resource/ui/hudplayerhealth_normal.res"		// HEALTH CROSS DISABLED
+#base "../resource/ui/hudplayerhealth_cross.res"		// HEALTH CROSS ENABLED

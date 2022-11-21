@@ -12,7 +12,7 @@
 		"Black"											"0 0 0 255"
 		"Blank"											"0 0 0 0"
 
-		"FrameActive"									"0 0 0 150"
+		"FrameActive"									"150 150 150 255"
 		"FrameInactive"									"0 0 0 120"
 		"ListBG"										"0 0 0 90"
 

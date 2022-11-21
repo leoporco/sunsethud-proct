@@ -960,14 +960,13 @@
 		"fieldName" 					 			"HudMenuSpyDisguise"
 		"visible" 						 			"1"
 		"enabled" 						 			"1"
-		"xpos"							 			"cs-0.5"
-		"ypos"							 			"cs-0.5+20"
-		"zpos"							 			"20"
-		"wide"							 			"276"
-		"tall"							 			"88"
+		"xpos"							 			"0"
+		"ypos"							 			"c-50"
+		"wide"							 			"150"
+		"tall"							 			"400"
 		"PaintBackgroundType"						"0"
 	}
-
+	
 	"HudDemomanPipes"
 	{
 		"fieldName"						 			"HudDemomanPipes"

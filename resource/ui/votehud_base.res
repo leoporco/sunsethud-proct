@@ -170,7 +170,7 @@
 			"wide"									"130"
 			"tall"									"16"
 			"zpos"									"1"
-			"fillcolor"								"OrangeDark"
+			"fillcolor"								"BlackLightestTransparent"
 			"visible"								"1"
 		}
 
@@ -219,7 +219,7 @@
 			"wide"									"130"
 			"tall"									"16"
 			"zpos"									"1"
-			"fillcolor"								"OrangeDark"
+			"fillcolor"								"BlackLightestTransparent"
 			"visible"								"1"
 		}
 
@@ -268,7 +268,7 @@
 			"wide"									"130"
 			"tall"									"16"
 			"zpos"									"1"
-			"fillcolor"								"OrangeDark"
+			"fillcolor"								"BlackLightestTransparent"
 			"visible"								"0"
 		}
 
@@ -299,7 +299,7 @@
 			"wide"									"130"
 			"tall"									"16"
 			"zpos"									"1"
-			"fillcolor"								"OrangeDark"
+			"fillcolor"								"BlackLightestTransparent"
 			"visible"								"0"
 		}
 
@@ -330,7 +330,7 @@
 			"wide"									"130"
 			"tall"									"16"
 			"zpos"									"1"
-			"fillcolor"								"OrangeDark"
+			"fillcolor"								"BlackLightestTransparent"
 			"visible"								"0"
 		}
 
@@ -533,12 +533,12 @@
 		"header_font"								"Size 13"
 		"header_fgcolor"							"White"
 
-		"issue_width"								"138"
+		"issue_width"								"180"
 		"issue_font"								"Size 10"
 		"issue_fgcolor"								"White"
 		"issue_fgcolor_disabled"					"WhiteDark"
 
-		"parameter_width"							"141"
+		"parameter_width"							"200"
 
 		"TitleLabel"
 		{
